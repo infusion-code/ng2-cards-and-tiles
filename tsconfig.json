@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "target": "es5",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "declaration": true,
+        "outDir": "dist",
+        "skipDefaultLibCheck": true,
+        "lib": [ "es6", "dom" ],
+        "types": [ "node" ]
+    },
+    "files": [
+        "index.ts",
+        "components/actionTile.ts",
+        "components/actionTileBar.ts",
+        "components/featureTile.ts",
+        "components/featureTileBar.ts",
+        "components/messageBoard.ts",
+        "components/messageTile.ts",
+        "models/messageData.ts",
+        "models/tileData.ts",
+        "services/featureService.ts",
+        "services/messageService.ts",
+        "services/tileService.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
