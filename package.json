@@ -1,7 +1,7 @@
 {
   "name": "ng2-cards-and-tiles",
   "version": "0.0.10",
-  "description": "A set of Angular2 components representating various data driven card and tile designs.",
+  "description": "A set of Angular2 components representation various data driven card and tile designs.",
   "homepage": "https://github.com/infusion-code/ng2-cards-and-tiles/wiki",
   "bugs": {
     "url": "https://github.com/infusion-code/ng2-cards-and-tiles/issues",
